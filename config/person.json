@@ -2,42 +2,42 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Nirmal"
+        , "last":   "Kumar"
         , "full":   "@{./last} @{./first}"
       }
-    , "nick":   "Tom&acute;AS"
-    , "abbr":   "tbaltrushaitis"
-    , "email":  "@{./abbr}@gmail.com"
+    , "nick":   "NirmalKnock"
+    , "abbr":   ""
+    , "email":  "nirmalknock@gmail.com"
     , "url":    "http://bit.ly/tomascv"
     , "bio": {
-          "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+          "birth":        "January &apos;2000"
+        , "citizenship":  "Indian"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "India"
+            , "city":     "Arcot"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
           }
       }
     , "home": {
-          "pos-prefix": "full-stack"
-        , "pos-title":  "engineer"
-        , "pos-tags":   "#high #skilled #experienced #guru"
+          "pos-prefix": "Embedded Software"
+        , "pos-title":  "Developer"
+        , "pos-tags":   "#high #skilled #experienced "
       }
     , "socials": {
         "li": {
             "name":   "linkedin"
           , "title":  "Linkedin profile"
           , "icon":   "fab fa-linkedin"
-          , "url":    "http://bit.ly/tomas-in"
+          , "url":    "https://www.linkedin.com/in/nirmalknock/"
         }
       , "git": {
             "name":   "git"
           , "title":  "Github account"
           , "icon":   "fab fa-github"
-          , "url":    "http://bit.ly/tomas-git"
+          , "url":    "https://github.com/NirmalKnock"
         }
       , "bb": {
             "name":   "bitbucket"
@@ -53,8 +53,8 @@
         }
       }
     , "contacts": {
-          "cell":   "KzM4MCg2NykgNzgtemVyby0zMS0xOA=="
-        , "email":  "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+          "cell":   "8072090514"
+        , "email":  "nirmalknock@gmail.com"
       }
   }
 }
